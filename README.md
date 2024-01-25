@@ -8,6 +8,8 @@
 
     远程仓库 -> Settings -> Pages -> Build and deployment：选择 GitHub Actions
 
+    ![settings.png](src%2Fassets%2Fsettings.png)
+
 * 其它备注
 
   * 解决构建后，GitHub Pages 访问静态文件 404
